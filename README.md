@@ -13,6 +13,15 @@ https://docs.hibbittsdesign.org
 - Smooth hover effects
 - Auto-expands section with active page
 
+## Installation
+
+1. Download `docsify-sidebar-collapse.js`
+2. Add to your project
+3. Include in your `index.html`:
+```html
+<script src="./docsify-sidebar-collapse.js"></script>
+```
+
 ## Usage
 
 No configuration needed! The plugin automatically:
