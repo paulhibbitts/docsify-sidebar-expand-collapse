@@ -29,6 +29,19 @@ No configuration needed! The plugin automatically:
 - Expands the section containing the current page
 - Closes other sections when you navigate
 
+## Configuration (Optional)
+
+To hide chevron indicators:
+```html
+
+  window.$docsify = {
+    sidebarCollapse: {
+      showChevrons: false
+    }
+  }
+
+```
+
 ## Requirements
 
 - Docsify v5
