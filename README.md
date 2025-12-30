@@ -16,10 +16,10 @@ https://docs.hibbittsdesign.org
 ## Installation
 
 1. Download `docsify-sidebar-collapse.js`
-2. Add to your project
-3. Include in your `index.html`:
+2. Add to your project's `plugins` folder
+3. Include in your index.html (after Docsify):
 ```html
-<script src="./docsify-sidebar-collapse.js"></script>
+<script src="./plugins/docsify-sidebar-collapse.js"></script>
 ```
 
 ## Usage
