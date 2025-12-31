@@ -54,7 +54,7 @@ This plugin is fully accessible:
 - Visible focus indicators
 
 ## Known Issues
-- **Accordion mode with auto-generated sidebars**: When navigating to pages where Docsify auto-generates sidebar content from page headers, sections may require a second click to remain open. To avoid this behavior, set `accordion: false` in the configuration.
+- **Auto-generated sidebars**: When Docsify auto-generates sidebar content from page headers, manually opened sections may require a second click to open after navigation. For best results, explicitly define all sidebar sections in your `_sidebar.md` file.
 
 ## Credits
 Original concept by [@Wsine](https://github.com/Wsine)  
