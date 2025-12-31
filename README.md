@@ -54,7 +54,7 @@ This plugin is fully accessible:
 - Visible focus indicators
 
 ## Known Issues
-- **Auto-generated sidebars**: When Docsify auto-generates sidebar content from page headers, manually opened sections may require a second click to open after navigation. For best results, explicitly define all sidebar sections in your `_sidebar.md` file.
+- **Auto-generated Sidebar content**: When Docsify auto-generates a table of contents from page headers, manually opened sections may require a second click to display after navigation. For best results, explicitly define all sidebar sections in your `_sidebar.md` file.
 
 ## Credits
 Original concept by [@Wsine](https://github.com/Wsine)  
