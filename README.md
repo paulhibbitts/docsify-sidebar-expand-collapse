@@ -7,7 +7,7 @@ https://docs.hibbittsdesign.org
 
 ## Features
 - Optional accordion behavior - only one section open at a time
-- Chevrons matching Docsify v5 design
+- Chevrons matching Docsify v5 design (right-aligned only)
 - Fully accessible (keyboard navigation, ARIA support)
 - Auto-expands section with active page
 
@@ -21,17 +21,20 @@ https://docs.hibbittsdesign.org
 
 ## Usage
 No configuration needed! The plugin automatically:
-- Makes all top-level sidebar sections collapsible
+- Makes all top-level sidebar sections collapsible with right-aligned chevron indicators
 - Expands the section containing the current page
 - Closes other sections when you navigate (in accordion mode)
 
+**Note:** This plugin only supports right-aligned chevrons.
+
 ## Configuration (Optional)
+
+To allow multiple sections to be open simultaneously:
 ```html
 <script>
   window.$docsify = {
     sidebarExpandCollapse: {
-      accordion: true,      // Only one section open at a time (default: true)
-      showChevrons: true    // Show chevron indicators (default: true)
+      accordion: false  // Allow multiple sections open at once (default: true)
     }
   }
 </script>
@@ -42,7 +45,6 @@ No configuration needed! The plugin automatically:
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
 | `accordion` | boolean | `true` | Only allow one section to be open at a time |
-| `showChevrons` | boolean | `true` | Display chevron indicators (› when collapsed, ∨ when expanded) |
 
 ## Requirements
 - Docsify v5
