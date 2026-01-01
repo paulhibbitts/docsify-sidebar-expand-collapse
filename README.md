@@ -7,10 +7,10 @@ Docsify Site:
 https://docs.hibbittsdesign.org
 
 Docsify-This Preview:  
-https://preview.docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/hibbitts-design-org-docs/master/docs/&homepage=01.overview/overview.md&name=Grav%20CMS%20in%20Open%20Education%20and%20Publishing&searchbox=true&sidebar=true&loadSidebar=true&subMaxLevel=0&sidebar-collapse=true&loadNavbar=true
+https://preview.docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/hibbitts-design-org-docs/master/docs/&homepage=01.overview/overview.md&edit-link=https://github.com/hibbitts-design/hibbitts-design-org-docs/tree/master/docs&edit-link-text=Edit%20this%20Site&name=Grav%20CMS%20in%20Open%20Education%20and%20Publishing&searchbox=true&sidebar=true&loadSidebar=true&subMaxLevel=0&sidebar-collapse=true&loadNavbar=true
 
 Docsify-This v2 Preview:  
-https://preview-v2.docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/hibbitts-design-org-docs/master/docs/&homepage=01.overview/overview.md&edit-link=https://github.com/hibbitts-design/hibbitts-design-org-docs/tree/master/docs&edit-link-text=Edit%20to%20this%20Site&font-family=system-ui,sans-serif&name=Grav%20CMS%20in%20Open%20Education%20and%20Publishing&searchbox=true&sidebar=true&loadSidebar=true&subMaxLevel=0&sidebar-collapse=true&loadNavbar=true
+https://preview-v2.docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/hibbitts-design-org-docs/master/docs/&homepage=01.overview/overview.md&edit-link=https://github.com/hibbitts-design/hibbitts-design-org-docs/tree/master/docs&edit-link-text=Edit%20this%20Site&font-family=system-ui,sans-serif&name=Grav%20CMS%20in%20Open%20Education%20and%20Publishing&searchbox=true&sidebar=true&loadSidebar=true&subMaxLevel=0&sidebar-collapse=true&loadNavbar=true
 
 ## Features
 - Optional accordion behavior - only one section open at a time
